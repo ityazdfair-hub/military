@@ -3,8 +3,8 @@
 // config.php
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'military');
-define('DB_USER', 'military'); // Change in production
-define('DB_PASS', 'qwerQWER'); // Change in production
+define('DB_USER', 'root'); // Change in production
+define('DB_PASS', ''); // Change in production
 define('SITE_NAME', 'اتوماسیون ورود و خروج سرباز');
 define('BASE_URL', '/military'); // Change based on your setup
 
